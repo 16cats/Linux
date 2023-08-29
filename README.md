@@ -5,9 +5,13 @@ I.	Linuxin asennus virtuaalikoneeseen.
 
 ### Käyttämäni systeemi
 Lenovo IdeaPad Slim 5:
+
 Prosessori: 13th Gen Intel Core i5
+
 Keskusmuisti: 16 GB LPDDR5-5200MHz
+
 Näytönohjain: Integrated Graphics
+
 Käyttäjäjärjestelmä: Windows 11
 
 ### Debianin lataus
@@ -18,6 +22,7 @@ Ensimmäisellä luennolla latasin koneelleni jo valmiiksi Debianin osoitteesta h
 ### Asennus
 Käytössäni oleva virtuaalikone on Oracle VM VirtualBox. 
 Loin uuden virtuaakoneen, johon laitoin yllämainitun .iso-tiedoston ja klikkasin ‘’Skip Unattended Installation’’. Seuraavaksi annoin perusmuistia 4096 MB sekä 4 prosessoria. Loin uuden Virtual Hard Diskin, jolle annoin 40 GB. Finish.
+
 ![image](https://github.com/16cats/h1/assets/97065659/589afed1-9bf4-453d-9900-2d814e1b1fd8)
 
 Menin Liveboottiin, ja aloitin latauksen. Sieltä valitsin kieleksi American English, laitoin aikavyöhykkeeksi Europe/Helsinki, ja näppäimistön suomeksi. Aloitin latauksen. 
